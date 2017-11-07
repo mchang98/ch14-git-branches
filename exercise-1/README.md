@@ -1,4 +1,6 @@
 # Exercise-1
+## Practice making git branches
+
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 For this exercise, complete the following steps:
@@ -13,7 +15,7 @@ For this exercise, complete the following steps:
 
 5. Commit your change (hint: use `git commit -am "msg"` to add and commit at once!)
 
-6. `checkout` the `master` branch. You shuld see your previous sentence disappear!
+6. `checkout` the `master` branch. You should see your previous sentence disappear!
 
 7. Add yet another sentence **at the top of the file** --- for example, a title or subtitle.
 
